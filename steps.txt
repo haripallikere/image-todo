@@ -1,0 +1,6 @@
+// Steps
+// 1- Make a server file
+// 2 - Make a simple client file
+// 3 - Add @babel/core, babel-loader, @babel/preset-env(ES6 Compilation), @babel/preset-react
+// 4 - Make webpack configuration file
+// 5 - Install webpack webpack-cli file-laoder sass loader
